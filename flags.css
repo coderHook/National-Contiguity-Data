@@ -3,10 +3,12 @@
  * Generated with CSS Flag Sprite generator (https://www.flag-sprites.com/)
  */
 .flag {
+    position: absolute;
     display: inline-block;
     width: 16px;
     height: 11px;
-    background: url('https://coderhook.github.io/National-Contiguity-Data/flags.png') no-repeat;
+    background: url(https://coderhook.github.io/National-Contiguity-Data/flags.png) no-repeat;
+    /*background: url('flags.png')*/
 }
 
 
